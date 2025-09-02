@@ -1,8 +1,3 @@
-# Developed by: RADHIMEENA M
-
-# RegisterNumber:  212223040159
-
-
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
 
 ## AIM:
@@ -28,6 +23,7 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
+
 */
 ```
 
